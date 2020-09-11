@@ -11,3 +11,4 @@
 
 우리([승현](https://github.com/seunghyunmoon2/), [예빈](https://github.com/Yeabin-Lim), [동현](https://github.com/soraidaaaaa), [수한](https://github.com/shawnbae))는 이 텍스트마이닝 기법을 논문의 저자가 작성한 패키지인 [eKoNLPy](https://github.com/entelecheia/eKoNLPy)를 사용해 재현해보고, 논문에서보다 발전된 결과를 얻기 위한 방법론을 제시해본다.
 
+궁극적으로 우리는 '금리'라는 키워드를 포함한 텍스트 데이터(금통위 의사록, 뉴스 기사, 채권 분석 리포트)를 분석해 얻은 **의사록 어조**가 **기준금리 변동**에 대한 설명력, 예측력이 높았다는 것을 나타낼 것이다.
